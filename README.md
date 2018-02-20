@@ -14,8 +14,12 @@ All articles in Russian are already published and are given here with :ru: icons
 2. Visual data analysis with Python [:ru:](https://habrahabr.ru/company/ods/blog/323210/)
 =======
 2. Visual data analysis with Python [:uk:](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-2-visual-data-analysis-in-python-846b989675cd)  [:ru:](https://habrahabr.ru/company/ods/blog/323210/)
+<<<<<<< HEAD
 >>>>>>> f132cc00479de1bbf8fe949c42e64833cdb5b1f6
 3. Classification, decision trees and k Nearest Neighbors [:ru:](https://habrahabr.ru/company/ods/blog/322534/)
+=======
+3. Classification, decision trees and k Nearest Neighbors [:uk:](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-3-classification-decision-trees-and-k-nearest-neighbors-8613c6b6d2cd) [:ru:](https://habrahabr.ru/company/ods/blog/322534/)
+>>>>>>> 49d052847f4a4247232a4c1800fa9de9e2878304
 4. Linear classification and regression [:ru:](https://habrahabr.ru/company/ods/blog/323890/)
 5. Bagging and random forest [:ru:](https://habrahabr.ru/company/ods/blog/324402/)
 6. Feature engineering and feature selection [:ru:](https://habrahabr.ru/company/ods/blog/325422/)
@@ -27,6 +31,7 @@ All articles in Russian are already published and are given here with :ru: icons
 ### Assignments
 1. "Exploratory data analysis with Pandas", [nbviewer](https://goo.gl/FR8qzt). Deadline: Feb. 11, 23.59 CET
 2. "Analyzing cardiovascular disease data", [nbviewer](https://goo.gl/VoTmG9).  Deadline: Feb. 18, 23.59 CET
+3. "Decision trees with a toy task and the UCI Adult dataset", [nbviewer](http://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_english/topic03_decision_trees_kNN/assignment3_decision_trees.ipynb). Deadline: Feb. 25, 23.59 CET
 
 ### Kaggle competitions
 1. Catch Me If You Can: Intruder Detection through Webpage Session Tracking, [Kaggle Inclass](https://www.kaggle.com/c/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2)
