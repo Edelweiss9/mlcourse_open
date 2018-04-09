@@ -48,8 +48,12 @@ This is the list of published articles on Medium :uk:, Habrahabr :ru:, and jqr.c
 >>>>>>> 810d118ac429fd7483fdddbc8997c05867dca658
 1. Exploratory Data Analysis with Pandas [:uk:](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-1-exploratory-data-analysis-with-pandas-de57880f1a68)  [:ru:](https://habrahabr.ru/company/ods/blog/322626/) [:cn:](https://www.jqr.com/article/000079)
 2. Visual Data Analysis with Python [:uk:](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-2-visual-data-analysis-in-python-846b989675cd)  [:ru:](https://habrahabr.ru/company/ods/blog/323210/) [:cn:](https://www.jqr.com/article/000086)
+<<<<<<< HEAD
 >>>>>>> 31196f5cce7ee1e78b77ee265d269ac046ed1c54
 3. Classification, Decision Trees and k Nearest Neighbors [:uk:](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-3-classification-decision-trees-and-k-nearest-neighbors-8613c6b6d2cd) [:ru:](https://habrahabr.ru/company/ods/blog/322534/)
+=======
+3. Classification, Decision Trees and k Nearest Neighbors [:uk:](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-3-classification-decision-trees-and-k-nearest-neighbors-8613c6b6d2cd) [:ru:](https://habrahabr.ru/company/ods/blog/322534/) [:cn:](https://www.jqr.com/article/000139)
+>>>>>>> 60054f645beddea35150df1a2e01ea78a85f5ca3
 4. Linear Classification and Regression [:uk:](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-4-linear-classification-and-regression-44a41b9b5220) [:ru:](https://habrahabr.ru/company/ods/blog/323890/)
 5. Bagging and Random Forest [:uk:](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-5-ensembles-of-algorithms-and-random-forest-8e05246cbba7) [:ru:](https://habrahabr.ru/company/ods/blog/324402/)
 6. Feature Engineering and Feature Selection [:uk:](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-6-feature-engineering-and-feature-selection-8b94f870706a) [:ru:](https://habrahabr.ru/company/ods/blog/325422/)
