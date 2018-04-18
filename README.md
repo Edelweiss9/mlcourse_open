@@ -59,6 +59,7 @@ This is the list of published articles on Medium :uk:, Habrahabr :ru:, and jqr.c
 6. Feature Engineering and Feature Selection [:uk:](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-6-feature-engineering-and-feature-selection-8b94f870706a) [:ru:](https://habrahabr.ru/company/ods/blog/325422/)
 7. Unsupervised Learning: Principal Component Analysis and Clustering [:uk:](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-7-unsupervised-learning-pca-and-clustering-db7879568417) [:ru:](https://habrahabr.ru/company/ods/blog/325654/)
 8. Vowpal Wabbit: Learning with Gigabytes of Data [:uk:](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-8-vowpal-wabbit-fast-learning-with-gigabytes-of-data-60f750086237) [:ru:](https://habrahabr.ru/company/ods/blog/326418/) [Kaggle Kernel](https://www.kaggle.com/kashnitsky/vowpal-wabbit-tutorial-blazingly-fast-learning)
+<<<<<<< HEAD
 9. Time Series Analysis with Python [:ru:](https://habrahabr.ru/company/ods/blog/327242/)
 <<<<<<< HEAD
 10. Gradient Boosting [:ru:](https://habrahabr.ru/company/ods/blog/327250/) 
@@ -66,6 +67,10 @@ This is the list of published articles on Medium :uk:, Habrahabr :ru:, and jqr.c
 =======
 10. Gradient Boosting [:ru:](https://habrahabr.ru/company/ods/blog/327250/)
 >>>>>>> 2ee9285018bb50961734f367bbd9eb87db51b60d
+=======
+9. Time Series Analysis with Python, part 1 [:uk:](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-9-time-series-analysis-in-python-a270cb05e0b3) [:ru:](https://habrahabr.ru/company/ods/blog/327242/). Predicting future with Facebook Prophet, part 2 [:uk:](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-9-part-3-predicting-the-future-with-facebook-prophet-3f3af145cdc)
+10. Gradient Boosting [:uk:](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-10-gradient-boosting-c751538131ac) [:ru:](https://habrahabr.ru/company/ods/blog/327250/)
+>>>>>>> 8a39f9f80016ee705be55e86d652d1c18987b84c
 
 ### Assignments
 1. "Exploratory data analysis with Pandas", [nbviewer](https://goo.gl/FR8qzt). Deadline: Feb. 11, 23.59 CET
