@@ -53,8 +53,13 @@ RUN cd /usr/local/src/LightGBM/python-package && python3 setup.py install
 RUN pip3 install --upgrade catboost
 
 # PyTorch
+<<<<<<< HEAD
 RUN pip3 install http://download.pytorch.org/whl/cpu/torch-0.3.1-cp35-cp35m-linux_x86_64.whl
 RUN pip3 install torchvision
+=======
+RUN pip3 install http://download.pytorch.org/whl/cpu/torch-0.4.0-cp35-cp35m-linux_x86_64.whl 
+RUN pip3 install --upgrade torchvision
+>>>>>>> e3935adfff62051152f0f2648ebb3730341bfac7
 
 # TensorFlow 
 RUN pip3 install --upgrade tensorflow  
@@ -66,6 +71,7 @@ RUN pip3 install --upgrade keras
 RUN pip3 install --upgrade pystan cython
 RUN pip3 install --upgrade fbprophet
 
+<<<<<<< HEAD
 
 # == JAVA == (uncomment if you need it)
 # Set locale to UTF-8
@@ -97,8 +103,9 @@ RUN pip3 install --upgrade fbprophet
 #    rm h2o-3.10.4.4.zip && \
 #    ln -s /usr/local/h2o-3.10.4.4 /usr/local/h2o
 
+=======
+>>>>>>> e3935adfff62051152f0f2648ebb3730341bfac7
 COPY docker_files/entry-point.sh /
-# COPY docker_files/h2o /usr/local/bin/
 
 # Final setup: directories, permissions, ssh login, symlinks, etc
 RUN mkdir -p /home/user && \
@@ -106,7 +113,6 @@ RUN mkdir -p /home/user && \
     echo 'root:12345' | chpasswd && \
     sed -i 's/PermitRootLogin prohibit-password/PermitRootLogin yes/' /etc/ssh/sshd_config && \
     sed 's@session\s*required\s*pam_loginuid.so@session optional pam_loginuid.so@g' -i /etc/pam.d/sshd && \
-  #  chmod a+x /usr/local/bin/h2o && \
     chmod a+x /entry-point.sh
 
 WORKDIR /home/user
